@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI - Image Enhancer",
+  "description": "A sleek, dark-themed AI image enhancement platform inspired by Lepshee, featuring image comparison sliders and AI-powered quality analysis using Google Gemini.",
+  "requestFramePermissions": []
+}
